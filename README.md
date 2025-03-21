@@ -1,7 +1,7 @@
 # DockerLearning
 - **Project Overview**
 - **Project Structure**
-- **Build and run a container**
+- **Build image and run container**
 - **Managing images and containers**
 - **Docker deploy on cloud**
 
