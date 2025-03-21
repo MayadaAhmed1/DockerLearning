@@ -37,7 +37,7 @@ And finally we will **deploy** these containers on cloud
      ├── package.json                      # Dependencies
      ├── server.js                         # Application source code  
      ├── images                            # Readme images 
-    ├── README.md                         # Project details
+    ├── README.md                          # Project details
 
 
 
@@ -45,7 +45,7 @@ And finally we will **deploy** these containers on cloud
 
 First ,we create docker file that contains the setup instructions for our image and save it.
 
-build a Docker image from the `Dockerfile` in the current directory (`.`).
+Create `Dockerfile` in the current directory (`.`) to build image
 
 `docker build .`
 
@@ -81,6 +81,7 @@ To stop running image , get the container_ID
 `docker ps` 
 
 `docker stop container_ID`
+
 
 📚 **Managing images and containers**
 
