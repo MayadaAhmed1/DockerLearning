@@ -41,7 +41,7 @@ And finally we will **deploy** these containers on cloud
 
 
 
- 🎯 **Build and run a container**
+ 🎯 **Build image and run container**
 
 First ,we create docker file that contains the setup instructions for our image and save it.
 
