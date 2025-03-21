@@ -45,7 +45,7 @@ And finally we will **deploy** these containers on cloud
 
 First ,we create docker file that contains the setup instructions for our image and save it.
 
-Open project terminal to create `Dockerfile` in the current directory (`.`)
+Open project terminal to build image after create new file `Dockerfile` in the current directory (`.`)
 
 `docker build .`
 
