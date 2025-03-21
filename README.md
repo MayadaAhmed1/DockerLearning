@@ -68,6 +68,9 @@ then Open web browser : http://localhost:3000/
 
 Enter “this is the first custom image”value in the course Goal text field and press “Set course Goal” as shown below ,the entered text will be shown at the console as well
 
+![DockerLearning](./nodejs-app-starting-setup/images/Docker_img1.png)
+DockerLearning/blob/main/nodejs-app-starting-setup/images/Docker_img1.png
+
 ![Screenshot 2025-03-15 at 12.33.48.png](attachment:b48a0c2a-72eb-4b46-b12a-04b8cbfee8e3:Screenshot_2025-03-15_at_12.33.48.png)
 
 The console output:
