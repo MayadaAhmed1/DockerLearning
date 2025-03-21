@@ -169,6 +169,8 @@ Face error due to local machine architecture (arm64),solved by this command
 
 `sudo docker run --platform linux/arm64 -d -p 80:80 repo_name`
 
+Same steps will be applied if you make some code changes except you need to pull the image to make sure changes reflected
+
 ![DockerLearning](./nodejs-app-starting-setup/images/Docker_img3.png)
 
 🌟 **Contributing**
