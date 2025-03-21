@@ -30,7 +30,7 @@ And finally we will **deploy** these containers on cloud
 
   │── dockerLearning/nodejs-app-starting-setup  
   
-  ├── nodejs-app-starting-setup 
+    ├── nodejs-app-starting-setup 
     ├── Dockerfile                        # Docker configuration
     ├── public/                  
       ├── styles.css/                     # Application web format
