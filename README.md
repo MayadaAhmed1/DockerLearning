@@ -30,6 +30,7 @@ And finally we will **deploy** these containers on cloud
 
 docker-learning/
 │── dockerLearning/
+
 │   ├── Dockerfile                        # Docker configuration
 │   ├── public/                  
       ├── styles.css/                     # Application web format
@@ -37,9 +38,7 @@ docker-learning/
     ├── server.js                         # Application source code
 │   ├── [README.md](http://readme.md/)    # Project details
 
-## 📂 Project Structure
 
-dockerLearning/ ├── Dockerfile # Docker configuration ├── public/ # Public assets (HTML, images, etc.) │ ├── styles.css # Application web format ├── package.json # Dependencies ├── server.js # Application source code ├── [README.md](http://readme.md/) # Project details
 
  🎯 **Build and run a container**
 
