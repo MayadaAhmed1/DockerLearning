@@ -35,6 +35,7 @@ And finally we will **deploy** these containers on cloud
       ├── styles.css/                     # Application web format
     ├── package.json                      # Dependencies
     ├── server.js                         # Application source code  
+    ├── images                            # Readme images 
     ├── [README.md](http://readme.md/)    # Project details
 
 
