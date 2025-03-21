@@ -29,8 +29,8 @@ And finally we will **deploy** these containers on cloud
 📂 **Project Structure**
 
 docker-learning/
-  │── dockerLearning/
-  
+
+  │── dockerLearning/  
     ├── Dockerfile                        # Docker configuration
     ├── public/                  
       ├── styles.css/                     # Application web format
