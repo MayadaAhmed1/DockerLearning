@@ -165,7 +165,7 @@ Run container at AWS EC2 instance
 
 `sudo docker run -d —-rm -p 80:80 repo_name`
 
-Face error due to local machine architecture (arm64),solved by this command 
+Faced an error due to local machine architecture (arm64),solved by this command 
 
 `sudo docker run --platform linux/arm64 -d -p 80:80 repo_name`
 
