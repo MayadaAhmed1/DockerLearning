@@ -35,10 +35,11 @@ docker-learning/
 │   ├── public/                  
 
       ├── styles.css/                     # Application web format
-│   ├── package.json                      # Dependencies
+      
+    ├── package.json                      # Dependencies
     ├── server.js                         # Application source code
     
-│   ├── [README.md](http://readme.md/)    # Project details
+    ├── [README.md](http://readme.md/)    # Project details
 
 
 
