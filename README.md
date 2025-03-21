@@ -1,6 +1,6 @@
 # DockerLearning
 - **Project Overview**
-- **Repository Structure**
+- **Project Structure**
 - **Build and run a container**
 - **Managing images and containers**
 - **Docker deploy on cloud**
@@ -26,18 +26,16 @@ Also will check how to **manage** images and containers
 
 And finally we will **deploy** these containers on cloud 
 
-📂 **Repository Structure**
+📂 **Project Structure**
 
 docker-learning/
 │── dockerLearning/
-│   ├── Dockerfile            # Docker configuration
+│   ├── Dockerfile                        # Docker configuration
 │   ├── public/                  
-
-       ├── styles.css/         # Application web format
-│   ├── package.json       # Dependencies
-
-    ├── server.js               # Application source code
-│   ├── [README.md](http://readme.md/)              # Project details
+      ├── styles.css/                     # Application web format
+│   ├── package.json                      # Dependencies
+    ├── server.js                         # Application source code
+│   ├── [README.md](http://readme.md/)    # Project details
 
 ## 📂 Project Structure
 
@@ -172,4 +170,5 @@ Face error due to local machine architecture (arm64),solved by this command
 ![Screenshot 2025-03-21 at 06.06.20.png](attachment:1c2a7965-bc49-4093-9749-e30870b90299:Screenshot_2025-03-21_at_06.06.20.png)
 
 🌟 **Contributing**
+
 This is a personal learning project, but feel free to open an issue or suggest improvements.
