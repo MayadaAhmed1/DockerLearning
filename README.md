@@ -3,7 +3,7 @@
 - **Project Structure**
 - **Build image and run container**
 - **Managing images and containers**
-- **Docker deploy on cloud**
+- **Deploy dockerized App on cloud**
 
 # Docker Learning
 
