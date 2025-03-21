@@ -1,7 +1,7 @@
 # DockerLearning
 - **Project Overview**
 - **Project Structure**
-- **Build image and run container**
+- **Build image and run container Locally**
 - **Managing images and containers**
 - **Deploy dockerized App on cloud**
 
@@ -41,7 +41,7 @@ And finally we will **deploy** these containers on cloud
 
 
 
- 🎯 **Build image and run container**
+ 🎯 **Build image and run container local**
 
 First ,we create docker file that contains the setup instructions for our image and save it.
 
@@ -141,9 +141,9 @@ Connect using ssh command line from instance connection steps at AWS
 
 Now we are connected to EC2, install docker at the VM 
 
- `sudo yum update -y
-  sudo yum -y install docker 
-  sudo service docker start` 
+ `sudo yum update -y`
+ `sudo yum -y install docker`
+ `sudo service docker start` 
 
 We will push our local image to dockerHub so we can pull it from anywhere
 
