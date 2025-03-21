@@ -33,9 +33,11 @@ docker-learning/
 
 │   ├── Dockerfile                        # Docker configuration
 │   ├── public/                  
+
       ├── styles.css/                     # Application web format
 │   ├── package.json                      # Dependencies
     ├── server.js                         # Application source code
+    
 │   ├── [README.md](http://readme.md/)    # Project details
 
 
