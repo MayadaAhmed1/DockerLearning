@@ -69,13 +69,11 @@ then Open web browser : http://localhost:3000/
 Enter “this is the first custom image”value in the course Goal text field and press “Set course Goal” as shown below ,the entered text will be shown at the console as well
 
 ![DockerLearning](./nodejs-app-starting-setup/images/Docker_img1.png)
-DockerLearning/blob/main/nodejs-app-starting-setup/images/Docker_img1.png
 
-![Screenshot 2025-03-15 at 12.33.48.png](attachment:b48a0c2a-72eb-4b46-b12a-04b8cbfee8e3:Screenshot_2025-03-15_at_12.33.48.png)
 
 The console output:
 
-![Screenshot 2025-03-15 at 12.34.25.png](attachment:c2e8ef6c-31c1-4801-b211-c727c96dbb25:Screenshot_2025-03-15_at_12.34.25.png)
+![DockerLearning](./nodejs-app-starting-setup/images/Docker_img2.png)
 
 To stop running image , get the container_ID
 
@@ -169,7 +167,7 @@ Face error due to local machine architecture (arm64),solved by this command
 
 `sudo docker run --platform linux/arm64 -d -p 80:80 repo_name`
 
-![Screenshot 2025-03-21 at 06.06.20.png](attachment:1c2a7965-bc49-4093-9749-e30870b90299:Screenshot_2025-03-21_at_06.06.20.png)
+![DockerLearning](./nodejs-app-starting-setup/images/Docker_img3.png)
 
 🌟 **Contributing**
 
