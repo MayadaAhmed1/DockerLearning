@@ -28,8 +28,6 @@ And finally we will **deploy** these containers on cloud
 
 📂 **Project Structure**
 
-docker-learning/
-
   │── dockerLearning/  
   
     ├── Dockerfile                        # Docker configuration
