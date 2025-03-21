@@ -28,7 +28,7 @@ And finally we will **deploy** these containers on cloud
 
 📂 **Project Structure**
 
-  │── dockerLearning/  
+  │── dockerLearning/nodejs-app-starting-setup  
   
     ├── Dockerfile                        # Docker configuration
     ├── public/                  
